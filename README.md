@@ -181,7 +181,7 @@ Through this project, the following skills were developed:
 
 ---
 
-## 📎 Submission Contents
+##  Submission Contents
 
 This repository includes:
 
@@ -192,7 +192,7 @@ This repository includes:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This audit demonstrates how Python, as an open-source project, empowers developers through accessibility, flexibility, and community-driven innovation. The combination of theoretical understanding and practical scripting highlights the importance of open-source software in modern computing.
 
