@@ -115,7 +115,7 @@ chmod +x *.sh
 
 ## Script Descriptions (Detailed)
 
-### 1.  Script 1 — System Identity Report
+### 1.  Script 1 - System Identity Report
 
 * Uses command substitution (`$()`)
 * Displays system-level information
@@ -123,7 +123,7 @@ chmod +x *.sh
 
 ---
 
-### 2.  Script 2 — Package Inspector
+### 2.  Script 2 - Package Inspector
 
 * Uses `dpkg -l` and `grep`
 * Checks installation status of Python
@@ -131,7 +131,7 @@ chmod +x *.sh
 
 ---
 
-### 3.  Script 3 — Disk & Permission Auditor
+### 3.  Script 3 - Disk & Permission Auditor
 
 * Uses `for` loop to iterate directories
 * Extracts permissions using `ls -ld`
@@ -139,7 +139,7 @@ chmod +x *.sh
 
 ---
 
-### 4.  Script 4 — Log File Analyzer
+### 4.  Script 4 - Log File Analyzer
 
 * Uses `while-read` loop
 * Counts keyword occurrences
@@ -147,7 +147,7 @@ chmod +x *.sh
 
 ---
 
-### 5.  Script 5 — Manifesto Generator
+### 5.  Script 5 - Manifesto Generator
 
 * Uses `read` for input
 * Writes output to file using `>`
