@@ -39,7 +39,7 @@ To execute these scripts on your local Linux machine, follow these steps:
    ./script4_analyzer.sh python_audit.log error
    ./script5_manifesto.sh
 
-4. License Information
+4. License Information:
 Python is distributed under the Python Software Foundation (PSF) License, a permissive open-source license that ensures the "Four Freedoms" of software are maintained for all users.
 
 
