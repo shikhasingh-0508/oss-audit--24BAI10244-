@@ -1,10 +1,15 @@
 # OSS Capstone Project: Python Audit
 
 **Student Name:** Shikha Singh
+
 **Registration Number:** 24BAI10244
+
 **Course:** Open Source Software (NGMC)
+
 **Software Audited:** Python
+
 **License:** Python Software Foundation (PSF) License
+
 **Environment:** Ubuntu 24.04 LTS (WSL2)
 
 ---
