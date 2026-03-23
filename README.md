@@ -28,11 +28,11 @@ To execute these scripts on your local Linux machine, follow these steps:
    git clone [https://github.com/shikhasingh-0508/oss-audit--24BAI10244-.git](https://github.com/shikhasingh-0508/oss-audit--24BAI10244-.git)
    cd oss-audit--24BAI10244-
 2. Grant Execution Permissions:
-   Bash
+   ```bash
    chmod +x *.sh
    
 3. Run the scripts:  
-   Bash
+   ```bash
    ./script1.sh
    ./script2.sh
    ./script3_auditor.sh
